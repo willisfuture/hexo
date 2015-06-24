@@ -1,7 +1,7 @@
 title: VIM的实操备忘录
 date: 2015-06-24 21:04:57
 categories: 工具
-tags: vim
+tags:[IDE,vim]
 ---
 ###基本操作
 ---
